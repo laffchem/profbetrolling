@@ -26,7 +26,7 @@ func generateNonce(length int) string {
 }
 
 func addNonceToList(names []string, nonce string) string {
-	items := strings.Join(names, "")
+	items := strings.Join(names, " ")
 	items += " " + nonce
 	return items
 }
