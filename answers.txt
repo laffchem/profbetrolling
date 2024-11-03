@@ -1,8 +1,4 @@
 Starting program...
-Hash: 0000000bfc567ed41121f2096b210bcf82e24afce9d4f35aa0eafad0f13278cf
-Nonce: BgE>
-Execution time: 11.707141557 seconds
-
-Hash: 00000000b2164dd008fd2015d025e1d12cdcadb5ce6d5a8b98bab8ab1697ab9d
-Nonce: %7Ms=*k~4gZ)9C]U
-Execution time: 1188.47856757 seconds
+Execution Time: 3430.139595 
+Hash Value: 00000000e7bf4283523412df38093ec45f2ac652cea6d0cee3fdf5f731ca4d74 
+Nonce Value: ^k{B[i;]pM(1E>Vd
